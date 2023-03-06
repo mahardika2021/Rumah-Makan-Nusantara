@@ -87,7 +87,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('../img/header-bg-nusantara1.jpg');
+  background-image: url('../img/Mengenal\ Letak\ Geografis\,\ Letak\ Astronomis\ dan\ Letak\ Geologis\ Indonesia.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -181,7 +181,7 @@ body {
 .about .row .content p {
   margin-bottom: 0.8rem;
   font-size: 1.4rem;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.6;
 }
 
@@ -194,7 +194,7 @@ body {
   text-align: center;
   max-width: 30rem;
   margin: auto;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.6;
 }
 
@@ -210,6 +210,8 @@ body {
 }
 
 .menu .row .menu-card img {
+  border-radius: 50%;
+  width: 80%;
   margin: 1rem;
 }
 .menu .row .menu-card .menu-card-title {
